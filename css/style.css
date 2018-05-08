@@ -94,10 +94,6 @@ main {
   flex-wrap: wrap;
 }
 
-.all {
-  display: none;
-}
-
 .description {
   width: 75%;
   margin-left: auto;
@@ -207,24 +203,12 @@ footer {
     margin-right: 10%;
   }
 
-  .other {
-    display: none;
-  }
-
   .img-main {
     height: 100%;
   }
 
-  .all {
-    display: block;
-  }
-
-  .feature, .other {
-    display: none;
-  }
-
   .description {
-    display: none;
+    font-size: 75%;
   }
 
   .featured {
